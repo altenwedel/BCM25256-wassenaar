@@ -84,3 +84,66 @@ documenten:
       en werksessies. Beklemtoont samenwerking boven inspraak.
     link: ./Participatie transitievisie warmte Wassenaar - +anderen.md
 
+      - id: WSN2502
+    titel: "Warmteprogramma – werkpresentatie"
+    type: werkdocument
+    datum: 2025-10
+    bron: Studio Claro
+    status: intern
+    gewicht: middel
+    samenvatting: >
+      PowerPointpresentatie gebruikt als gespreksdocument voor gemeenten in de regio.
+      Verkent de overgang van Transitievisie Warmte naar Warmteprogramma met aandacht
+      voor participatie en communicatie. Richt zich op de verschuiving van technisch
+      denken naar sociaal en procesmatig handelen. Bevat voorbeelden uit Oegstgeest,
+      Katwijk, Leiderdorp en Zoeterwoude.
+    link: ./PowerPoint-presentatie[01].pdf
+
+      - id: WSN2105
+    titel: "Verordening Inwonerparticipatie Wassenaar"
+    type: beleidsdocument
+    datum: 2021-07
+    bron: Gemeente Wassenaar
+    status: intern
+    gewicht: hoog
+    samenvatting: >
+      Geactualiseerde en samengevoegde regels over inwonerparticipatie in Wassenaar.
+      De verordening vertaalt de nota 'Zo werken wij samen in Wassenaar' in concrete
+      werkvormen voor samenwerking tussen gemeente en inwoners. Nieuw toegevoegd is
+      het uitdaagrecht: inwoners kunnen gemeentelijke taken overnemen. Doel is een
+      structurele, transparante en toegankelijke aanpak van participatie bij alle
+      beleidsontwikkelingen.
+    uitgangspunten:
+      - De gemeente is er vóór én ván de inwoners.
+      - Participatie is maatwerk; de vorm verschilt per situatie.
+      - De gemeente legt vast hoe inwoners worden betrokken bij nieuw beleid.
+      - De gemeenteraad stelt de regels vast; het college voert uit.
+    participatievormen:
+      - naam: "Agenderen"
+        beschrijving: >
+          Inwoners signaleren een maatschappelijk probleem en willen dit bespreken
+          met de gemeenteraad. Vereist 100 handtekeningen.
+        voorbeeld: "Te weinig activiteiten voor jongeren."
+      - naam: "Maatschappelijk initiatief"
+        beschrijving: >
+          Inwoners doen een voorstel of plan om de lokale samenleving te verbeteren
+          en vragen hulp van de gemeente bij de uitvoering.
+        voorbeeld: "Initiatief voor meer vlindervriendelijke beplanting in de wijk."
+      - naam: "Inspraak"
+        beschrijving: >
+          Inwoners kunnen hun mening geven over beleidsvoornemens van de gemeente.
+          Reacties worden verzameld, besproken en verwerkt in het beleid.
+        voorbeeld: "Reactie op de verordening inwonerparticipatie."
+      - naam: "Participatie bij uitvoering"
+        beschrijving: >
+          Inwoners denken of werken mee aan de uitvoering van gemeentelijke taken
+          of projecten. De intensiteit verschilt per onderwerp.
+        voorbeeld: "Samen met bewoners een park opnieuw inrichten."
+      - naam: "Uitdaagrecht"
+        beschrijving: >
+          Inwoners of organisaties nemen een gemeentelijke taak over die zij beter
+          kunnen uitvoeren, met duidelijke afspraken met het college.
+        voorbeeld: "Onderhoud van een groenstrook door de wijkvereniging."
+    link: ./infographic-nieuwe-verordening-inwonerparticipatie-2_0.pdf
+
+
