@@ -268,6 +268,59 @@ documenten:
     link: ./wassenaar-participatie-tvw-samenvatting-en-route_0.pdf
 
 
+  - id: WSN2503
+    titel: "Claude Research – Warmteprogramma Wassenaar"
+    type: analyse
+    datum: 2025-10
+    bron: Claude.ai
+    status: derivaat
+    gewicht: middel
+    samenvatting: >
+      Externe onderzoeksanalyse over de stand van de warmtetransitie in Wassenaar.
+      Richt zich op beleidscontext, participatieproces en wijkverschillen. Combineert
+      publieke bronnen uit 2021–2025 en beschrijft het voorlopige beeld van gemeentelijke
+      communicatie en draagvlak.
+    link: ./251005-Claude-Research.docx
+
+  - id: WSN2504
+    titel: "Gemini Research [01] – Warmteprogramma Wassenaar"
+    type: analyse
+    datum: 2025-10
+    bron: Google Gemini
+    status: derivaat
+    gewicht: middel
+    samenvatting: >
+      Eerste deel van het Gemini-onderzoek naar de warmtetransitie in Wassenaar.
+      Richt zich op algemene beleidsinformatie, regionale context (RES Holland Rijnland)
+      en de toon van communicatie richting inwoners.
+    link: ./251005-Gemini-Research-[01].md
+
+  - id: WSN2505
+    titel: "Gemini Research [02] – Warmteprogramma Wassenaar"
+    type: analyse
+    datum: 2025-10
+    bron: Google Gemini
+    status: derivaat
+    gewicht: middel
+    samenvatting: >
+      Tweede deel van het Gemini-onderzoek met nadruk op wijkgerichte informatie,
+      verschillen in betrokkenheid en bronnenanalyse van lokale media.
+      Bevat aanvullende citaten en observaties over De Paauw, Oostdorp en Meijendel.
+    link: ./251005-Gemini-Research-[02].md
+
+  - id: WSN2506
+    titel: "ChatGPT Research – Warmteprogramma Wassenaar"
+    type: analyse
+    datum: 2025-10
+    bron: ChatGPT (GPT-5)
+    status: derivaat
+    gewicht: hoog
+    samenvatting: >
+      Syntheserapport gebaseerd op publieke websearches en documentanalyse.
+      Geeft een geïntegreerd overzicht van de warmtetransitie in Wassenaar
+      met aandacht voor communicatie, participatie en sociale dimensie.
+      Vormt de primaire bron voor het rapport 'Warmtetransitie in Wassenaar – Publieke stand van zaken 2025'.
+    link: ./251005-ChatGPT-Research.pdf
 
     
 
