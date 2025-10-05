@@ -69,16 +69,18 @@ documenten:
       stappen en duidelijke informatie over kosten en financiering.
     link: ./participatieverslag-tvw-juli-2021.pdf
 
-  - id: WSN2501
-    titel: "Warmteprogramma Wassenaar (werkdocument)"
-    type: werkdocument
-    datum: 2025-09
-    bron: Gemeente Wassenaar
-    status: werkdocument
+  - id: WSN2104
+    titel: "Participatie Transitievisie Warmte Wassenaar – +anderen"
+    type: participatieverslag
+    datum: 2021-08
+    bron: "+anderen"
+    status: extern
     gewicht: middel
     samenvatting: >
-      Conceptfase van het opvolgende Warmteprogramma, voortbouwend op de TVW 2021.
-      Richt zich op uitvoering, participatie en communicatie per wijk.
-      Doel: verbinden van technische haalbaarheid aan sociaal draagvlak en financiële mogelijkheden.
-    link: ./docs/warmteprogramma-werkversie-2025.md
+      Projectbeschrijving van +anderen over de begeleiding van het participatieproces.
+      De nadruk ligt op partnerschap met bewoners, transparante communicatie
+      en brede toegankelijkheid. Introduceert het 'zandlopermodel' om iedereen
+      te laten deelnemen, met een mix van krantenspecials, online enquêtes
+      en werksessies. Beklemtoont samenwerking boven inspraak.
+    link: ./Participatie transitievisie warmte Wassenaar - +anderen.md
 
