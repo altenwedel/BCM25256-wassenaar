@@ -146,4 +146,129 @@ documenten:
         voorbeeld: "Onderhoud van een groenstrook door de wijkvereniging."
     link: ./infographic-nieuwe-verordening-inwonerparticipatie-2_0.pdf
 
+      - id: WSN2102
+    titel: "Nieuwsbrief Aardgasvrij Wassenaar nr. 1"
+    type: participatieverslag
+    datum: 2021-03
+    bron: Gemeente Wassenaar
+    status: extern
+    gewicht: middel
+    samenvatting: >
+      Eerste nieuwsbrief in het kader van de Transitievisie Warmte Wassenaar.
+      Introduceert het doel en proces van de warmtetransitie, kondigt online werkplaatsen aan
+      over randvoorwaarden en dilemma’s, en deelt resultaten van een enquête waaraan circa
+      500 inwoners deelnamen. Richt zich op bewustwording en participatie; verwijst naar de
+      informatiekrant en veelgestelde vragen op de gemeentelijke website.
+    link: ./27-maart-2021-nieuwsbrief-aardgasvrij-wassenaar-nr-1.pdf
+
+    - id: WSN2106
+    titel: "Presentatie Werkplaats 2 – Aardgasvrij Wassenaar"
+    type: participatieverslag
+    datum: 2021-04
+    bron: Gemeente Wassenaar / CE Delft
+    status: intern
+    gewicht: hoog
+    samenvatting: >
+      PowerPointpresentatie van de tweede online werkplaats over de Transitievisie Warmte Wassenaar.
+      Geeft inzicht in de fasering tot 2050, de uitkomsten van de vragenlijst, en de technische
+      analyses van CE Delft. Bespreekt buurttypologieën, criteria voor warmtealternatieven en
+      dilemma’s rond betaalbaarheid, energiearmoede en keuzevrijheid. Vormt een kernmoment in het
+      participatieproces en bereidt de afronding van de visie in 2021 voor.
+    link: ./2104-presentatie-werkplaats-2_.pdf
+    
+  - id: WSN2107
+    titel: "Duurzame warmte voor Wassenaar"
+    type: beleidsdocument
+    datum: 2021-06
+    bron: Gemeente Wassenaar
+    status: extern
+    gewicht: middel
+    samenvatting: >
+      Webpagina van de gemeente Wassenaar over de uitgangspunten van de Transitievisie Warmte.
+      Benadrukt energiebesparing tot 2030, vrijwilligheid van aardgasafkoppeling, en de keuze
+      voor CO2-reductie als hoofdroute naar 2050. Legt nadruk op woonlastenneutraliteit en
+      samenwerking met inwoners. Verwijst naar wijkpaspoorten, werkplaatsen en participatie-
+      resultaten uit 2021.
+    link: ./Duurzame warmte voor Wassenaar.md
+
+  - id: WSN2108
+    titel: "Informatiebladen Warmteoplossingen"
+    type: analyse
+    datum: 2021-06
+    bron: Gemeente Wassenaar / CE Delft
+    status: extern
+    gewicht: middel
+    samenvatting: >
+      Bundel met informatiebladen over mogelijke warmteoplossingen voor woningen in Wassenaar.
+      Vergelijkt collectieve en individuele opties zoals warmtenetten, all-electric en hybride
+      warmtepompen op kosten, duurzaamheid en geschiktheid per woningtype. Onderdeel van de
+      technische onderbouwing bij de Transitievisie Warmte en bedoeld ter ondersteuning van
+      bewonersgesprekken en werkplaatsen.
+    link: ./informatiebladen-warmteoplossingen.pdf
+
+      - id: WSN2109
+    titel: "Informatiekrant Transitievisie Warmte – Gemeente Wassenaar"
+    type: participatieverslag
+    datum: 2021-03
+    bron: Gemeente Wassenaar
+    status: extern
+    gewicht: hoog
+    samenvatting: >
+      Krantbijlage verspreid in maart 2021 als introductie op de Transitievisie Warmte Wassenaar.
+      Legt uit waarom de gemeente overstapt op duurzame warmte, welke stappen inwoners kunnen
+      zetten, en hoe zij kunnen meedenken. Beschrijft de uitgangspunten, de planning tot 2050,
+      en de participatiemogelijkheden via vragenlijst en werkplaatsen. Vormt het publiekskader
+      voor de latere visie en online bijeenkomsten.
+    link: ./informatiekrant-transitievisie-warmte-gemeente-wassenaar.pdf
+
+      - id: WSN2110
+    titel: "Overzicht Wijken 2021 – Warmteopties per buurtcluster"
+    type: analyse
+    datum: 2021-06
+    bron: CE Delft / Gemeente Wassenaar
+    status: intern
+    gewicht: middel
+    samenvatting: >
+      Tekstueel overzicht van buurten en clusters binnen Wassenaar met hun kenmerken,
+      energieprofielen en voorkeursrichtingen voor warmteoplossingen. Baseert zich op
+      de technische analyse van CE Delft en onderscheidt vier hoofdtypen: buitengebied,
+      breder uitgelegde wijken, centrum en noord. Biedt per buurt handelingsperspectief
+      voor isolatie, hybride of elektrische warmtepomp en wijst Meijendel aan als
+      kansrijk startgebied.
+    link: ./overzicht-wijken-2021.txt
+
+      - id: WSN2111
+    titel: "Terugkoppeling Presentatie Werkplaats 1 – 7 april 2021"
+    type: participatieverslag
+    datum: 2021-04
+    bron: Gemeente Wassenaar / CE Delft / +anderen
+    status: intern
+    gewicht: hoog
+    samenvatting: >
+      Presentatie van de eerste online werkplaats over de Transitievisie Warmte Wassenaar.
+      Bevat programma, opzet van deelsessies en de inhoudelijke kaders van gemeente,
+      CE Delft en +anderen. Richt zich op randvoorwaarden voor warmteoplossingen,
+      participatiecriteria en zorgen van inwoners (kosten, keuzevrijheid, uitvoerbaarheid).
+      Dient als input voor Werkplaats 2 en de conceptversie van de transitievisie.
+    link: ./terugkoppeling-presentatie-werkplaats-1-tvw-7-april-2021.pdf
+
+  - id: WSN2112
+    titel: "Participatie Transitievisie Warmte – Samenvatting en Route"
+    type: participatieverslag
+    datum: 2021-06
+    bron: Gemeente Wassenaar / +anderen
+    status: extern
+    gewicht: hoog
+    samenvatting: >
+      Samenvattend document van het participatietraject rond de Transitievisie Warmte.
+      Bevat resultaten van de vragenlijst (ruim 500 deelnemers) en de werkplaatsen, met
+      de belangrijkste zorgen, ideeën en voorwaarden van inwoners. Legt nadruk op betaalbaarheid,
+      keuzevrijheid en betrouwbaarheid van warmteoplossingen. Geeft uitgangspunten voor de visie:
+      stap-voor-stap, buurtgericht en met aandacht voor communicatie, financiering en isolatie.
+    link: ./wassenaar-participatie-tvw-samenvatting-en-route_0.pdf
+
+
+
+    
+
 
