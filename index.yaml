@@ -274,3 +274,19 @@ documenten:
       Geeft geïntegreerd overzicht van beleid, participatie en sociale dimensie.
       Vormt de primaire basis voor het rapport 'Warmtetransitie in Wassenaar – Publieke stand van zaken 2025'.
     link: ./251005-ChatGPT-Research.pdf
+
+    - id: WSN2502
+    titel: "Drie parallelle oversteken – de uitdagingen van het Warmteprogramma"
+    type: analyse
+    datum: 2025-10
+    bron: Studio Claro / BCM
+    status: intern
+    gewicht: hoog
+    samenvatting: >
+      Interne analyse die de fundamentele verschillen articuleert tussen de Transitievisie 
+      Warmte (2021) en het Warmteprogramma (2026-2030). Identificeert drie parallelle 
+      uitdagingen: (1) voor inwoners verschuift de transitie van abstract naar persoonlijk, 
+      (2) participatie moet van 500 zelfselectie naar 100% totale inclusie, (3) de gemeente 
+      verschuift van beleidsmaker naar warmteregisseur. Benadrukt noodzaak van dubbele slag 
+      (concretisering + verbreding) en learning on the job onder tijdsdruk.
+    link: ./uitdagingen-warmteprogramma-analyse-2025-10.md
