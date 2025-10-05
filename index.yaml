@@ -1,0 +1,84 @@
+# index.yaml — Warmteprogramma Wassenaar
+# Legenda:
+# - id: unieke code voor verwijzing
+# - titel: officiële of verkorte naam van het document
+# - type: rapport / participatieverslag / beleidsdocument / analyse / derivaat / werkdocument
+# - datum: publicatiedatum (jjjj-mm)
+# - bron: organisatie of auteur
+# - status: intern / extern / werkdocument / derivaat
+# - gewicht: hoog / middel / laag (relevantie voor de analyse)
+# - samenvatting: kerninhoud (max 6 regels)
+# - link: relatieve of absolute bestandslocatie
+
+meta:
+  project: "Warmteprogramma Wassenaar"
+  versie: 1.0
+  laatste_update: 2025-10-05
+  beschrijving: >
+    Index van kern- en achtergrondstukken die de basis vormen voor de analyse van het
+    communicatie- en participatieprogramma rondom het Warmteprogramma van de gemeente Wassenaar.
+    De index volgt de structuur zoals toegepast bij Wognum, met duidelijke status- en gewichtlabels.
+  beheerder: "Studio Claro"
+  structuur: |
+    De documenten zijn geordend naar herkomst en functie:
+      - primaire beleidsstukken
+      - technische onderbouwing
+      - participatieverslagen
+      - afgeleide en aanvullende documenten
+
+documenten:
+  - id: WSN2101
+    titel: "Transitievisie Warmte Wassenaar 1.0"
+    type: beleidsdocument
+    datum: 2021-10
+    bron: Gemeente Wassenaar
+    status: intern
+    gewicht: hoog
+    samenvatting: >
+      De eerste gemeentelijke transitievisie warmte van Wassenaar. Beschrijft de lokale vertaling
+      van het nationale Klimaatakkoord, de technische en participatieve onderbouwing, en de route
+      richting 2050. Richt zich op energiebesparing, isolatie en buurtgerichte uitvoering, met
+      Meijendel als eerste startgebied.
+    link: ./transitievisie-warmte-oktober-2021.pdf
+
+  - id: WSN2102
+    titel: "Technisch-economische analyse Wassenaar"
+    type: analyse
+    datum: 2021-07
+    bron: CE Delft
+    status: extern
+    gewicht: hoog
+    samenvatting: >
+      Technische en economische basis onder de transitievisie. Analyseert per buurtcluster de
+      haalbaarheid van warmtenetten, individuele en hybride oplossingen, en brengt de nationale
+      en eindgebruikerskosten in kaart. Stelt Meijendel aan als kansrijke startbuurt en geeft een
+      handelingsperspectief per buurtcluster.
+    link: ./technisch-economische-analyse-wassenaar-transitievisie-warmte.pdf
+
+  - id: WSN2103
+    titel: "Participatieverslag Transitievisie Warmte"
+    type: participatieverslag
+    datum: 2021-07
+    bron: +anderen (in opdracht van Gemeente Wassenaar)
+    status: extern
+    gewicht: hoog
+    samenvatting: >
+      Verslag van de participatie bij de transitievisie warmte. Beschrijft de online vragenlijst,
+      werkplaatsen en feedbackrondes (491 deelnemers). Concludeert dat betrokkenheid groot is maar
+      concrete handelingsinformatie ontbreekt. Adviseert buurtgerichte aanpak, zichtbare eerste
+      stappen en duidelijke informatie over kosten en financiering.
+    link: ./participatieverslag-tvw-juli-2021.pdf
+
+  - id: WSN2501
+    titel: "Warmteprogramma Wassenaar (werkdocument)"
+    type: werkdocument
+    datum: 2025-09
+    bron: Gemeente Wassenaar
+    status: werkdocument
+    gewicht: middel
+    samenvatting: >
+      Conceptfase van het opvolgende Warmteprogramma, voortbouwend op de TVW 2021.
+      Richt zich op uitvoering, participatie en communicatie per wijk.
+      Doel: verbinden van technische haalbaarheid aan sociaal draagvlak en financiële mogelijkheden.
+    link: ./docs/warmteprogramma-werkversie-2025.md
+
